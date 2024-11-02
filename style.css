@@ -1,0 +1,109 @@
+* {
+		margin: 0px;
+		padding: 0px;
+
+	}
+
+
+
+img {
+	width: 170px;
+	padding-bottom: 10px;
+		}
+body {
+	background-color:#b49c74;
+	margin: 0%;
+	
+	
+}
+
+
+
+.game {
+	background-color: #F0DAAE;
+	text-align: center;
+	padding-top: 20px;
+}
+.bigger {
+	width: 250px;
+
+}
+
+
+.jus {
+	text-align: justify;
+	font-family: Newsreader;
+}
+
+.container {
+
+	text-align: center;
+	width: 100%;
+
+	
+}
+
+th {
+
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+.Title {
+	text-align: justify;
+	background-color: wheat;
+	padding: 20px;
+
+}
+
+.name {
+	margin-top: 0px;
+	margin-bottom: 0%;
+	padding-bottom: 15px;
+}
+
+p {
+	font-family: Lato;
+}
+
+h1 {
+	font-family: Akaya Kanadaka;
+}
+
+
+h2 {
+	font-family: Nova Sans;
+}
+
+td 
+{
+    height: 50px; 
+    width: 50px;
+    vertical-align: middle;
+}
+
+h1 {
+	text-align: center;
+}
+
+a:link {
+		color:black;	
+				
+		}
+a:visited {
+		color: black;
+	
+		}
+
+table {
+	text-align: justify;
+
+}
+
+.cen {
+	text-align: center;
+}
+
+
+
+
