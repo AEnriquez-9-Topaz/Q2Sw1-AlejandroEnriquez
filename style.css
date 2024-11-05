@@ -43,6 +43,12 @@ body {
 	
 }
 
+.foot {
+	background-color: beige;
+	padding: 20px;
+	text-align: center;
+}
+
 th {
 
   vertical-align: middle;
@@ -103,11 +109,7 @@ table {
 .cen {
 	text-align: center;
 }
-.footer {
-	background-color: beige;
-	padding: 20px;
-	text-align: center;
-}
+
 
 
 
